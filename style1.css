@@ -1,0 +1,23 @@
+body {
+    background-color:yellow;
+    width:960px;
+    padding:20px;
+}
+header{
+    background-color:red;
+    height:60px;
+    width:960px;
+    margin-bottom:30px;
+}
+main {
+    background-color:green;
+    height:400px;
+    width:960px;
+    border:1px solid black;
+}
+footer{
+    background-color:black;
+    height:80px;
+    width:960px;
+    padding:20px;
+}
