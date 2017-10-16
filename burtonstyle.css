@@ -59,7 +59,7 @@ article {
 }
 
 article:last-child {
-    padding-right: 0px;
+    padding-right: 0;
 }
 
 footer {
