@@ -1,0 +1,69 @@
+body {
+    width:960px;
+    display: inline-block;
+}
+form ul {
+    list-style-type: none;
+    padding:0;
+}
+form ul li {
+    padding:10px;
+}
+form ul li input {
+    position:absolute;
+    left:150px;
+}
+.form-group2 {
+    color: darkblue;
+    padding: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    display: inline-block;
+    margin-right: -80px;
+}
+input#geslacht {
+    margin-left: -60px;
+}
+input {
+    color: darkblue;
+    float: right;
+    width: 150px;
+}
+select {
+    color: darkblue;
+    float: right;
+    width: 150px;
+}
+label {
+    color: darkblue;
+}
+textarea {
+    color: darkblue;
+    float: right;
+    width: 300px;
+    height: 100px;
+    margin-right: -150px;
+}
+.form-group {
+    color: darkblue;
+    padding: 10px;
+    padding-left: 20px;
+    display: inline-block;
+    width:33%;
+}
+.checkbox {
+    color: darkblue;
+    display: inline-block;
+    width:30%;
+    float: right;
+}
+.buttons {
+    color: darkblue;
+    display: inline-block;
+    width:40%;
+    float: right;
+}
+h2 {
+    color: darkblue;
+    padding-left: 5px;
+}
